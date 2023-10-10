@@ -38,6 +38,13 @@ password: Mx24as435vXsad7Zx6a
 
 ![image](https://github.com/git-aramirez/Properties/assets/70823877/7912c4ad-eea4-4e6d-ac9f-9f17cc3f55fd)
 
+## Requirements
+
+a)	Create Property Building 
+b)	Add Image from property
+c)	Change Price
+d)	Update property
+e)	List property  with filters
 
 ## Swagger implemented
 You can use the endpoints and obtain the request
