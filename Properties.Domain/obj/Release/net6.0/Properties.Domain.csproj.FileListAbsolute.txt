@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\bin\Release\net6.0\Properties.Domain.deps.json
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\bin\Release\net6.0\Properties.Domain.runtimeconfig.json
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\bin\Release\net6.0\Properties.Domain.dll
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\bin\Release\net6.0\Properties.Domain.pdb
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.dll
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\refint\Properties.Domain.dll
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.pdb
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\Properties.Domain.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Properties\Properties.Domain\obj\Release\net6.0\ref\Properties.Domain.dll

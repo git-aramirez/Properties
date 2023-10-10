@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Properties\Properties.Core\bin\Debug\net6.0\Properties.Core.deps.json
+C:\Users\Usuario\source\repos\Properties\Properties.Core\bin\Debug\net6.0\Properties.Core.dll
+C:\Users\Usuario\source\repos\Properties\Properties.Core\bin\Debug\net6.0\Properties.Core.pdb
+C:\Users\Usuario\source\repos\Properties\Properties.Core\bin\Debug\net6.0\Properties.Domain.dll
+C:\Users\Usuario\source\repos\Properties\Properties.Core\bin\Debug\net6.0\Properties.Domain.pdb
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.dll
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\refint\Properties.Core.dll
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\Properties.Core.pdb
+C:\Users\Usuario\source\repos\Properties\Properties.Core\obj\Debug\net6.0\ref\Properties.Core.dll
