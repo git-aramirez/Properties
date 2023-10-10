@@ -14,7 +14,7 @@ Layers:
 ## Frameworks
 .Net 6
 
-##DataBase
+## DataBase
 SqlServer
 
 ## Exceptions
@@ -34,11 +34,11 @@ password: Mx24as435vXsad7Zx6a
 4) EntityFramework.SqlServer
 5) EntityFramework.Design
 
+## Swagger implemented
+You can use the endpoints and obtain the request
+
 ## Steps for Run project
 1) Open Visual Studio Code or your development enviroment and clone this repository
 2) Import or create the database
 3) Configure the database connection string
-4) Now, you can run to project on Properties (https://github.com/git-aramirez/Properties/assets/70823877/8e71c82e-370f-4785-9d09-ca9f86e6ab9e)
-
-##Swagger implemented
-You can use the endpoints and obtain the request
+4) Now, you can run to project on Properties
