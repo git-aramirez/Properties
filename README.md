@@ -46,4 +46,4 @@ You can use the endpoints and obtain the request
 1) Open Visual Studio Code or your development enviroment and clone this repository
 2) Import or create the database
 3) Configure the database connection string
-4) Now, you can run to project on Properties
+4) Now, you can run to project on Properties, IMPORTANT: I had trouble running the project with Chrome, I recommend running it on another one
