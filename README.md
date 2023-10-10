@@ -34,6 +34,11 @@ password: Mx24as435vXsad7Zx6a
 4) EntityFramework.SqlServer
 5) EntityFramework.Design
 
+## Relational Model
+
+![image](https://github.com/git-aramirez/Properties/assets/70823877/7912c4ad-eea4-4e6d-ac9f-9f17cc3f55fd)
+
+
 ## Swagger implemented
 You can use the endpoints and obtain the request
 
