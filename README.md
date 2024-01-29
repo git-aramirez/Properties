@@ -10,6 +10,7 @@ Layers:
 1) Api
 2) Domain
 3) Infraestructure
+4) Integration Test
 
 ## Frameworks
 .Net 6
