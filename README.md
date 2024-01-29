@@ -8,8 +8,8 @@ Hexagonal Architecture
 
 Layers:
 1) Api
-2) Core
-3) Domain
+2) Domain
+3) Infraestructure
 
 ## Frameworks
 .Net 6
