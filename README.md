@@ -13,7 +13,7 @@ Layers:
 4) Integration Test
 
 ## Frameworks
-.Net 6
+.Net 8
 
 ## DataBase
 SqlServer
