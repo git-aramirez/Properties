@@ -25,7 +25,7 @@ Custom exception handling was performed to control request responses
 Basic Athentication
 
 Credentials:
-UserName: millonAnUp@million.com
+UserName: anderson04211@gmail.com
 password: Mx24as435vXsad7Zx6a
 
 ## Test Integration
