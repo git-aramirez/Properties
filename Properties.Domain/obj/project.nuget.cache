@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VXzUDboYV02rPdiH0VKu4JEG0ugM4KUNkW/LVVhgw8Nfm2fHlpbVf5MPhdL5lL5qAAd79YfvLPNmbAa2/ecNWw==",
+  "dgSpecHash": "Z9YqEXIYrWjxekAAXsh1anKmEuHdV7ZrIgLYrhcTFSXzW6fHOw12vz2rG1q+mbmvL8ku3fIFNLxHP+bkQ8hw4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Domain\\Properties.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Domain\\Properties.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

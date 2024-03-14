@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ppovA90oqV0Sk3nGr5MKbd9toCqZ7xbFs5Xbk1mA11rmNHQ+0FSB9mMTRcaQiHXbHNpTDemPUuepWjVhDjkp0g==",
+  "dgSpecHash": "fBjiIiKIn2QrfVJ/mDqU6rhK2p8BLpn5ElHRx64Kd3WVGbU+NtVxCtQTZ6aNYqDfP+ZC32tL+g3/qeyQ+BKMHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Tests.Integration\\Properties.Tests.Integration.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Tests.Integration\\Properties.Tests.Integration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

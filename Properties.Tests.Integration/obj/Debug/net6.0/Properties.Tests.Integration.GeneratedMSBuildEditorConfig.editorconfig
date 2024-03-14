@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Properties.Tests.Integration
-build_property.ProjectDir = C:\Users\Usuario\Desktop\pro\Properties.Api\Properties.Tests.Integration\
+build_property.ProjectDir = C:\Users\Usuario\Desktop\Properties\Properties.Tests.Integration\

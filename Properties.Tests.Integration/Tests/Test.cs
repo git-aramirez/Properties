@@ -32,7 +32,7 @@ namespace Properties.Tests.Integration.Tests
         {
             _httpClient = webApplicationFactory.HttpClient;
             _resetDatabase = webApplicationFactory.ResetDatabaseAsync;
-            string credentials = Convert.ToBase64String(Encoding.ASCII.GetBytes(string.Format("{0}:{1}", "millonAnUp@million.com", "Mx24as435vXsad7Zx6a")));
+            string credentials = Convert.ToBase64String(Encoding.ASCII.GetBytes(string.Format("{0}:{1}", "anderson04211@gmail.com", "Mx24as435vXsad7Zx6a")));
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Basic", credentials);
         }
 

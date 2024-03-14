@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Domain\\Properties.Domain.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Domain\\Properties.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Domain\\Properties.Domain.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Domain\\Properties.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Domain\\Properties.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Domain\\Properties.Domain.csproj",
         "projectName": "Properties.Domain",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Domain\\Properties.Domain.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Domain\\Properties.Domain.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +34,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

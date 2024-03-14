@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WTuuO1Fl5CqKLnB8OpFP5OERy1P8PLctyeD+0PNcMNQAWog3sgMZE4wzaN1tKt/I9haKsxMDU7RX6Xxsgx24xQ==",
+  "dgSpecHash": "KMPJhUeMm1nilwRW+32PcpVByAa5/tv97DQ1ea593zgzRG8YFYzmvBA/9lTiiKDvnGVTzuwZdAWddsDRJz7D6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\pro\\Properties.Api\\Properties.Infraestructure\\Properties.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Properties\\Properties.Infraestructure\\Properties.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
