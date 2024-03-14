@@ -13,7 +13,7 @@ Layers:
 4) Integration Test
 
 ## Frameworks
-.Net 6
+.Net 8
 
 ## DataBase
 SqlServer
@@ -25,7 +25,7 @@ Custom exception handling was performed to control request responses
 Basic Athentication
 
 Credentials:
-UserName: millonAnUp@million.com
+UserName: anderson04211@gmail.com
 password: Mx24as435vXsad7Zx6a
 
 ## Test Integration
@@ -44,7 +44,7 @@ these test were developed with docker containers to simulate the database the fu
 10) System.Text.Json
 
 ## Relational Model
-![image](https://github.com/git-aramirez/Properties/assets/70823877/427aa9a8-d712-4fb2-bbfe-2b518f32a090)
+![image](https://github.com/git-aramirez/Properties/assets/70823877/a2081d6f-f34c-486c-9b84-3b785a740aff)
 
 
 ## Requirements
