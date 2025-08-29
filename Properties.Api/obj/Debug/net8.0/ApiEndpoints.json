@@ -1,0 +1,254 @@
+[
+  {
+    "ContainingType": "Properties.Api.Controllers.OwnerController",
+    "Method": "Create",
+    "RelativePath": "api/Owner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "owner",
+        "Type": "Properties.Domain.DTOs.Owner.CreateOwnerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.OwnerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Owner",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.OwnerController",
+    "Method": "Get",
+    "RelativePath": "api/Owner/{ownerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ownerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyController",
+    "Method": "Create",
+    "RelativePath": "api/Property",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "property",
+        "Type": "Properties.Domain.DTOs.Property.CreatePropertyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyController",
+    "Method": "GetAll",
+    "RelativePath": "api/Property",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyController",
+    "Method": "Update",
+    "RelativePath": "api/Property",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "property",
+        "Type": "Properties.Domain.DTOs.Property.UpdatePropertyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyController",
+    "Method": "Get",
+    "RelativePath": "api/Property/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyController",
+    "Method": "ChangePrice",
+    "RelativePath": "api/Property/{propertyId}/{price}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "price",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyController",
+    "Method": "GetAllIntermediatePrices",
+    "RelativePath": "api/Property/prices-between/{priceLow}/{pricerHigh}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "priceLow",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      },
+      {
+        "Name": "priceHigh",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "pricerHigh",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyController",
+    "Method": "GetAllIntermediateYears",
+    "RelativePath": "api/Property/years-between/{yearLow}/{yearHigh}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "yearLow",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "yearHigh",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyImageController",
+    "Method": "Create",
+    "RelativePath": "api/PropertyImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyImage",
+        "Type": "Properties.Domain.DTOs.PropertyImage.CreatePropertyImageResquest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyImageController",
+    "Method": "GetAll",
+    "RelativePath": "api/PropertyImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyImageController",
+    "Method": "Get",
+    "RelativePath": "api/PropertyImage/{propertyImageId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyImageId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyTraceController",
+    "Method": "Create",
+    "RelativePath": "api/PropertyTrace",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "owner",
+        "Type": "Properties.Domain.DTOs.PropertyTrace.CreatePropertyTraceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyTraceController",
+    "Method": "GetAll",
+    "RelativePath": "api/PropertyTrace",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Properties.Api.Controllers.PropertyTraceController",
+    "Method": "Get",
+    "RelativePath": "api/PropertyTrace/{propertyTraceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyTraceId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
